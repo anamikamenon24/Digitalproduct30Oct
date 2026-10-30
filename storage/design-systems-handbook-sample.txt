@@ -1,0 +1,13 @@
+Pixelora — Design Systems Handbook
+by Studio Lumen
+
+From scattered components to a system your team loves.
+
+What's included:
+  • 220-page illustrated e-book
+  • Token starter file
+  • Documentation template
+
+Format: PDF
+
+This is a small sample file for local testing. In production this would be the real product download.

@@ -1,0 +1,14 @@
+Pixelora — Pitch Perfect Deck
+by Northbound
+
+The investor-ready deck structure used by 300+ startups.
+
+What's included:
+  • 32 slide layouts
+  • Speaker notes
+  • Keynote, PPT & Google Slides
+  • Chart & icon library
+
+Format: Keynote / PPTX / Slides
+
+This is a small sample file for local testing. In production this would be the real product download.

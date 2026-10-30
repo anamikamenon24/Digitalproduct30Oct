@@ -1,0 +1,13 @@
+Pixelora — Bloom Script
+by Typeforge
+
+A flowing hand-lettered script with 300 ligatures.
+
+What's included:
+  • Script + swash fonts
+  • 300 ligatures
+  • Commercial license
+
+Format: OTF + TTF
+
+This is a small sample file for local testing. In production this would be the real product download.

@@ -1,0 +1,14 @@
+Pixelora — Glossy 3D Icon Set
+by Polyform
+
+300 glossy 3D icons in three lighting styles.
+
+What's included:
+  • 300 icons × 3 styles
+  • 4K transparent PNGs
+  • Blender source files
+  • Figma library
+
+Format: PNG + BLEND + FIG
+
+This is a small sample file for local testing. In production this would be the real product download.

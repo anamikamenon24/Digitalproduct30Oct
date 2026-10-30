@@ -1,0 +1,15 @@
+Pixelora — Creator OS for Notion
+by Mira Kova
+
+Plan, publish and track every piece of content in one workspace.
+
+What's included:
+  • Content calendar with 4 views
+  • Brand-deal CRM
+  • Idea vault & swipe file
+  • Analytics dashboard
+  • Video setup walkthrough
+
+Format: Notion template
+
+This is a small sample file for local testing. In production this would be the real product download.

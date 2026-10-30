@@ -1,0 +1,14 @@
+Pixelora — Neon Nights Lightroom Presets
+by Kai Rivers
+
+Cinematic cyberpunk tones for city and night photography.
+
+What's included:
+  • 15 desktop presets
+  • 15 mobile DNG presets
+  • Install video
+  • Before/after guide
+
+Format: XMP + DNG
+
+This is a small sample file for local testing. In production this would be the real product download.

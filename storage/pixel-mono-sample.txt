@@ -1,0 +1,13 @@
+Pixelora — Pixel Mono
+by Bitworks
+
+A retro pixel monospace for code, games and posters.
+
+What's included:
+  • 3 weights
+  • Code ligatures
+  • Bitmap & outline versions
+
+Format: OTF + TTF + WOFF2
+
+This is a small sample file for local testing. In production this would be the real product download.

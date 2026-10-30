@@ -1,0 +1,14 @@
+Pixelora — Analog Film LUTs
+by Kai Rivers
+
+Twelve classic film stocks for video, rebuilt as LUTs.
+
+What's included:
+  • 12 .cube LUTs
+  • Log & Rec.709 versions
+  • Grain overlays
+  • Premiere/Resolve guide
+
+Format: .CUBE
+
+This is a small sample file for local testing. In production this would be the real product download.

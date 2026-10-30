@@ -1,0 +1,15 @@
+Pixelora — Aurora Portfolio Kit
+by Studio Lumen
+
+A dreamy, animated portfolio template for designers.
+
+What's included:
+  • 8 responsive pages
+  • Case-study layouts
+  • CMS-ready blog
+  • Dark & light themes
+  • Lifetime updates
+
+Format: Figma + Framer
+
+This is a small sample file for local testing. In production this would be the real product download.

@@ -1,0 +1,13 @@
+Pixelora — Duotone Icon System
+by Polyform
+
+Two-tone icons that adapt to any brand color.
+
+What's included:
+  • 800 duotone icons
+  • CSS variable theming
+  • Figma + SVG
+
+Format: SVG + FIG
+
+This is a small sample file for local testing. In production this would be the real product download.
